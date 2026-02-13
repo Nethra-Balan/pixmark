@@ -1,2 +1,2 @@
-# pixmark
-Visual Cryptography for Copyright Protection using Digital Watermarking
+# PixMark - Visual Cryptography for Copyright Protection using Digital Watermarking
+PixMark is a digital copyright protection system that combines visual cryptography and digital watermarking to secure image ownership. The project generates master images from potentially unauthorized copies, creates ownership shares using XOR-based watermarking, and allows the extraction of hidden watermarks to verify authenticity. By embedding and regenerating watermarks, PixMark ensures that the original creator’s rights are protected, providing a reliable method to detect tampering or unauthorized distribution of digital images.
